@@ -2,7 +2,3 @@ test git hub commit file
 new branch sprint1
 commit by sprint11
 test rebase
-statr branch
-start branch
-statr rebase
-
